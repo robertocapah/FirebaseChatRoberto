@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "433993922516",
+    "firebase_url": "https://robertochatroom.firebaseio.com",
+    "project_id": "robertochatroom",
+    "storage_bucket": "robertochatroom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433993922516:android:f90a893cec6a9fd2",
+        "android_client_info": {
+          "package_name": "com.sanghiang.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433993922516-pqkudh25b5o39biu3qg59qdu4ibj6la7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanghiang.firebasechat",
+            "certificate_hash": "c0a41fa0db674e1428888241ebaf5cb27b05f55f"
+          }
+        },
+        {
+          "client_id": "433993922516-ji4q68piapptvdn6n0ttut4c27sieqr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCggUc98QbLupEQntiEUDoyxdzoDzFJjA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433993922516-ji4q68piapptvdn6n0ttut4c27sieqr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

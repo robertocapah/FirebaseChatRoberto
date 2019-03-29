@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    //material design color
+    <color name="grey_3">#f7f7f7</color>
+    <color name="grey_5">#f2f2f2</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_80">#37474F</color>
+    <color name="grey_90">#263238</color>
+    <color name="grey_95">#1a1a1a</color>
+    <color name="grey_100_">#0d0d0d</color>
+
+    <color name="overlay_dark_10">#1A000000</color>
+    <color name="overlay_dark_20">#33000000</color>
+    <color name="overlay_dark_30">#4D000000</color>
+    <color name="overlay_dark_40">#66000000</color>
+    <color name="overlay_dark_50">#80000000</color>
+    <color name="overlay_dark_60">#99000000</color>
+    <color name="overlay_dark_70">#B3000000</color>
+    <color name="overlay_dark_80">#CC000000</color>
+    <color name="overlay_dark_90">#E6000000</color>
+
+    <color name="overlay_light_10">#1AFFFFFF</color>
+    <color name="overlay_light_20">#33FFFFFF</color>
+    <color name="overlay_light_30">#4DFFFFFF</color>
+    <color name="overlay_light_40">#66FFFFFF</color>
+    <color name="overlay_light_50">#8FFFFFF0</color>
+    <color name="overlay_light_60">#99FFFFFF</color>
+    <color name="overlay_light_70">#B3FFFFFF</color>
+    <color name="overlay_light_80">#CCFFFFFF</color>
+    <color name="overlay_light_90">#E6FFFFFF</color>
+
+
+
+    <drawable name="input_method_fullscreen_background">#fff9f9f9</drawable>
+    <color name="input_method_navigation_guard">#ff000000</color>
+
+    <!-- For date picker widget -->
+    <drawable name="selected_day_background">#ff0092f4</drawable>
+
+
+    <!-- FaceLock -->
+    <color name="facelock_spotlight_mask">#CC000000</color>
+
+    <color name="micro_text_light">#434343</color>
+
+
+    <color name="notification_material_background_color">#ffffffff</color>
+
+    <color name="notification_default_color">#757575</color> <!-- Gray 600 -->
+    <color name="notification_icon_default_color">@color/notification_default_color</color>
+
+
+    <color name="notification_action_list">#ffeeeeee</color>
+    <color name="notification_action_list_dark">#ffe0e0e0</color>
+
+    <!-- Keyguard colors -->
+    <color name="keyguard_avatar_frame_color">#ffffffff</color>
+    <color name="keyguard_avatar_frame_shadow_color">#80000000</color>
+    <color name="keyguard_avatar_nick_color">#ffffffff</color>
+    <color name="keyguard_avatar_frame_pressed_color">#ff35b5e5</color>
+
+    <color name="accessibility_focus_highlight">#bf39b500</color>
+    <color name="autofilled_highlight">#4dffeb3b</color>
+
+    <color name="system_notification_accent_color">#ff607D8B</color>
+
+    <!-- Default user icon colors -->
+    <color name="user_icon_1">#ff00bcd4</color><!-- cyan 500 -->
+    <color name="user_icon_2">#ff3f51b5</color><!-- indigo 500 -->
+    <color name="user_icon_3">#ff4285f4</color><!-- blue 500 -->
+    <color name="user_icon_4">#ffe91e63</color><!-- pink 500 -->
+    <color name="user_icon_5">#ff0f9d58</color><!-- green 500 -->
+    <color name="user_icon_6">#ff8bc34a</color><!-- light green 500 -->
+    <color name="user_icon_7">#ffff9800</color><!-- orange 500 -->
+    <color name="user_icon_8">#ffff5722</color><!-- deep orange 500 -->
+    <color name="user_icon_default_gray">#ff9e9e9e</color><!-- gray 500 -->
+    <color name="user_icon_default_white">#ffffffff</color><!-- white -->
+
+    <!-- Default profile badge colors -->
+    <color name="profile_badge_1">#ffff6d00</color><!-- Orange -->
+    <color name="profile_badge_2">#ff000000</color><!-- Black -->
+    <color name="profile_badge_3">#ff22f033</color><!-- Green -->
+
+    <!-- Default instant app badge color -->
+    <color name="instant_app_badge">#FFFFFFFF</color><!-- White -->
+
+    <!-- Multi-sim sim colors -->
+    <color name="Teal_700">#ff00796b</color>
+    <color name="Teal_800">#ff00695c</color>
+    <color name="Blue_700">#ff3367d6</color>
+    <color name="Blue_800">#ff2a56c6</color>
+    <color name="Indigo_700">#ff303f9f</color>
+    <color name="Indigo_800">#ff283593</color>
+    <color name="Purple_700">#ff7b1fa2</color>
+    <color name="Purple_800">#ff6a1b9a</color>
+    <color name="Pink_700">#ffc2185b</color>
+    <color name="Pink_800">#ffad1457</color>
+    <color name="Red_700">#ffc53929</color>
+    <color name="Red_800">#ffb93221</color>
+
+    <color name="chooser_service_row_background_color">#fff5f5f5</color>
+
+    <!-- Status bar color for semi transparent mode. -->
+    <color name="system_bar_background_semi_transparent">#66000000</color> <!-- 40% black -->
+
+    <color name="resize_shadow_start_color">#2a000000</color>
+    <color name="resize_shadow_end_color">#00000000</color>
+
+    <color name="tooltip_background_dark">#e6616161</color>
+    <color name="tooltip_background_light">#e6FFFFFF</color>
+
+    <!-- FloatingToolbar -->
+    <color name="floating_popup_divider_dark">#2F2F2F</color>
+    <color name="floating_popup_divider_light">#E9E9E9</color>
+    <color name="green_50">#E8F5E9</color>
+    <color name="green_100">#C8E6C9</color>
+    <color name="green_200">#A5D6A7</color>
+    <color name="green_300">#81C784</color>
+    <color name="green_400">#66BB6A</color>
+    <color name="green_500">#4CAF50</color>
+    <color name="green_600">#43A047</color>
+    <color name="green_700">#388E3C</color>
+    <color name="green_800">#2E7D32</color>
+    <color name="green_900">#1B5E20</color>
+    <color name="green_A100">#B9F6CA</color>
+    <color name="green_A200">#69F0AE</color>
+    <color name="green_A400">#00E676</color>
+    <color name="green_A700">#00C853</color>
+
+</resources>
